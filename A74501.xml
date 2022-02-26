@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance appointing commissioners for approbation of publique preachers. Monday March 20. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74501</idno>
+            <idno type="STC">Thomason E1063_16</idno>
+            <idno type="STC">ESTC R209549</idno>
+            <idno type="EEBO-CITATION">99868424</idno>
+            <idno type="PROQUEST">99868424</idno>
+            <idno type="VID">169182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169182)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1063[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance appointing commissioners for approbation of publique preachers. Monday March 20. 1653. Ordered by His Highness the Lord Protector and His Council, that this ordinance be forthwith printed and published. Henry Scobell Clerk of the Council.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 129-136, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William du-Gard and Henry Hills, Printers to His Highness the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653. [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf contains order to print.</note>
+                  <note>Imperfect: text bleed-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England. --  Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="129" facs="tcp:169182:1"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+               </figure>
+            </head>
+            <head>AN ORDINANCE Appointing COMMISSIONERS for Approbation of Publick Preachers.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas for ſome time paſt hitherto there hath not been any certain courſe eſtabliſhed for the ſupply<g ref="char:EOLhyphen"/>ing vacant places with able and fit perſons to preach the Goſpel, by rea<g ref="char:EOLhyphen"/>ſon whereof not onely the Rights and Titles of Patrons are prejudiced, but many weak, ſcandalous, popiſh, and ill-affected perſons have intruded themſelves, or
+<pb n="130" facs="tcp:169182:2"/> been brought in to the great grief and troubl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the good people of this Nation; For remedy and prevention whereof, Be it Ordained by his Highneſs the Lord Protector, by and with the conſent of his Council, that every perſon, who ſhall from and after the five and twenti<g ref="char:EOLhyphen"/>eth day of <hi>March</hi> inſtant be preſented, nomina<g ref="char:EOLhyphen"/>ted, choſen, or appointed to any Benefice (for<g ref="char:EOLhyphen"/>merly called Benefice with Care of Souls) or to preach any publick ſettled Lecture in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> or <hi>Wal<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> ſhall, before he be admitted into any ſuch Benefice, or Lecture, be judged and approved, by the perſons hereafter named, to be a perſon for the Grace of God in him, his holy and unblamable Converſation, as alſo for his knowledge and utterance, able and fit to preach the Goſpel; And that after the ſaid five and twentieth day of <hi>March,</hi> no perſon, but ſuch as ſhall upon ſuch approbation be admitted by the ſaid perſons, ſhall take any publique Lecture, having a conſtant ſtipend legally annexed and belonging thereunto, or take or receive any ſuch Benefice as aforeſaid, or the profits thereof; And be it further or<g ref="char:EOLhyphen"/>dained, That <hi>Francis Rous,</hi> Eſq; Dr. <hi>Thomas Goodwin</hi> Dr. <hi>John Owen,</hi> Mr. <hi>Thankful Owen,</hi> Dr. <hi>Arrowſmith,</hi> Dr. <hi>Tuckney,</hi> Dr. <hi>Hor<g ref="char:EOLhyphen"/>to<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> Mr. <hi>Joſeph Caryl,</hi> Mr. <hi>Philip Ny,</hi> Mr. <hi>William Garter,</hi> Mr. <hi>Sidrach Simpſon,</hi> Mr. <hi>William Greenhill,</hi> Mr. <hi>William Strong,</hi> Mr. <hi>Thomas Manton,</hi> Mr. <hi>Samuel Slater,</hi> Mr. <hi>Wil<g ref="char:EOLhyphen"/>liam Cooper,</hi> Mr. <hi>Stephen Marſhal,</hi> Mr. <hi>John Tombes,</hi> Mr. <hi>Walter Cradock,</hi> Mr. <hi>Samuel Faircloth,</hi> Mr. <hi>Hugh Peters,</hi> Mr. <hi>Peter Sterry,</hi> Mr. <hi>Samuel Bamford,</hi> Mr. <hi>Thomas Valentine</hi> of <hi>Chaford,</hi> Mr. <hi>Henry Jeſſee,</hi> Mr. <hi>Obadiah Sedge<g ref="char:EOLhyphen"/>wick,</hi>
+               <pb n="131" facs="tcp:169182:2"/> Mr. <hi>Nicholas Lockier,</hi> Mr. <hi>Daniel Dyke,</hi> Mr. <hi>James Ruſſel,</hi> Mr. <hi>Nathanael Campfield, Robert Titchborn</hi> Alderman of <hi>London; Mark Hildeſley, Thomas Wo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, John Sadler, William Goff, Thomas St. Nicholas, William Packer,</hi> and <hi>Edward Creſſet,</hi> Eſquires, ſhall be, and are hereby nominated, conſtituted and appointed Commiſſioners for ſuch approbation and ad<g ref="char:EOLhyphen"/>miſſion as is aboveſaid, and upon death or re<g ref="char:EOLhyphen"/>moval of any of them, others ſhall from time to time be nominated in their places by the Lord Protector and his Succeſſors, by ad<g ref="char:EOLhyphen"/>vice of his Council, in the Interval of Par<g ref="char:EOLhyphen"/>laments, and ſitting the Parlament, by the Protector and Parlament; And the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any five or more of them, met to<g ref="char:EOLhyphen"/>gether in ſome certain place in the City of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> or <hi>Weſtminſter,</hi> as his Highneſs ſhall ap<g ref="char:EOLhyphen"/>point, are hereby authorized to judge and take knowledge of the ability and fitneſs of any perſon ſo Preſented, nominated, choſen or appointed according to the qualification above<g ref="char:EOLhyphen"/>mentioned, and upon their approbation of ſuch his ability and fitneſs, to grant unto ſuch perſon admiſſion to ſuch Benefice or Lec<g ref="char:EOLhyphen"/>ture by an Inſtrument in writing under a Common Seal to be appointed by his High<g ref="char:EOLhyphen"/>neſs, and under the hand of the Regiſter
+<pb n="132" facs="tcp:169182:3"/> or Regiſters for the time being to be alſo no<g ref="char:EOLhyphen"/>minated by the Lord Protector and his Suc<g ref="char:EOLhyphen"/>ceſſors, which Inſtrument the ſaid Re<g ref="char:EOLhyphen"/>giſter or Regiſters ſhall cauſe to be entered in a Book for that purpoſe, and kept upon Record.</p>
+            <p>And it is hereby declared, That the ſaid per<g ref="char:EOLhyphen"/>ſon ſo admitted into any ſuch Benefice, ſhall be Poſſeſſor and Incumbent of the ſame, and intituled thereby to the Profits, Perqui<g ref="char:EOLhyphen"/>ſits, and all Rights and Dues incident and belonging thereunto, as fully and effectually as if he had been inſtituted and inducted according to the Laws of this Realm; as alſo the perſon that ſhall be ſo admitted to any Lecture as aforeſaid, ſhall be thereby e<g ref="char:EOLhyphen"/>nabled, according to the eſtabliſhment and conſtitution of ſuch Lecture, to preach there<g ref="char:EOLhyphen"/>in, and to have and receive the Stipend or Profits to ſuch Lecture belonging.</p>
+            <p>Provided alwaies, That no perſon who ſhall tender himſelf, or be tendred, for ap<g ref="char:EOLhyphen"/>probation as aforeſaid, ſhall be concluded by any vote of the ſaid Commiſſioners which ſhall paſſe in the Negative as to his approba<g ref="char:EOLhyphen"/>tion, unleſs nine or more of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners be preſent at ſuch Vote.</p>
+            <pb n="133" facs="tcp:169182:3"/>
+            <p>And it is further Ordained, That all Pa<g ref="char:EOLhyphen"/>trons of any Benefices that are now void, ſhall within ſix Moneths next after the five &amp; twen<g ref="char:EOLhyphen"/>tieth of this inſtant <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rch,</hi> and of any Be<g ref="char:EOLhyphen"/>nefice that ſhall hereafter be void within ſix Months next after the avoidance of the ſame, Preſent unto the ſaid Commiſſioners, or any five of them, ſome fit perſon to be admitted, and for default of ſuch Preſentation with<g ref="char:EOLhyphen"/>in that time, the Preſentation for that turn ſhall devolve by lapſe unto the Lord Protec<g ref="char:EOLhyphen"/>tor and his Succeſſors.</p>
+            <p>Provided alwaies, That in caſe the Patron be diſturbed to Preſent unto ſuch Benefice, and thereupon within ſix moneths after the a<g ref="char:EOLhyphen"/>voidance of ſuch Benefice a Sute be com<g ref="char:EOLhyphen"/>menced for the Recovery of ſuch Preſentati<g ref="char:EOLhyphen"/>on, and notice thereof in writing left with the ſaid Commiſſioners, or any five of them, or the Regiſter, that then ſuch notice ſhall be as effectual to prevent the lapſe, as where the ſute was heretofore commenced againſt the Biſhop or Ordinary.</p>
+            <p>And it is further Ordained, That during the
+<pb n="134" facs="tcp:169182:4"/> vacancy of ſuch place by reaſon of ſuch Sute, the ſaid Commiſſioners, or any five or more of them, have hereby authority to ſequeſter the fruits and profits thereof for ſupplying of the place with an able Preacher, by the ſaid Commiſſioners, or any five or more of them, to be nominated and approved of as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>And foraſmuch as many perſons ſince the firſt day of <hi>April</hi> laſt paſt have been placed in ſuch Benefices, and publique Lectures, It is hereby Ordained, That in caſe ſuch perſon ſhall not before the four and twentieth day of <hi>June</hi> next, obtain approbation and admit<g ref="char:EOLhyphen"/>tance in the manner before expreſt, Then ſuch perſon or perſons as have right there<g ref="char:EOLhyphen"/>unto ſhall or may Preſent or nominate ſome other fit and able perſon to ſuch place.</p>
+            <p>And in default of ſuch Preſentation with<g ref="char:EOLhyphen"/>in two Moneths after the ſaid four and twentieth day of <hi>June,</hi> or within ſix Moneths after the place became void, the Preſentation for that turn ſhall likewiſe devolve by lapſe unto the Lord Protector and his Succeſſors</p>
+            <pb n="135" facs="tcp:169182:4"/>
+            <p>And for the better ſatisfaction of the ſaid Commiſſioners touching the godly and un<g ref="char:EOLhyphen"/>blameable converſation of ſuch perſons as are to bee admitted into any place as aforeſaid, It is further Declared and Ordeined, that before any admittance of any perſon as afore<g ref="char:EOLhyphen"/>ſaid, there ſhall bee brought to the ſaid Com<g ref="char:EOLhyphen"/>miſſioners, or any five of them, a Teſtimonial or Certificate in writing, ſubſcribed with the hands of three perſons of known godlineſs and integritie, whereof one at leaſt to bee a prea<g ref="char:EOLhyphen"/>cher of the Goſpel in ſom conſtant ſetled place; Teſtifying upon their perſonal knowledg the holy and good converſation of the perſon ſo to bee admitted: which ſaid Certificat ſhall bee dulie Regiſtred and filed. And it is alſo De<g ref="char:EOLhyphen"/>clared, that the penaltie for or in reſpect of the not ſubſcribing or reading the Articles mentioned in the Act of the 13<hi rend="sup">th</hi> yeer of Queen <hi>Eliſabeth,</hi> Intituled, <hi>Reformation of Diſorders in the Miniſters of the Church:</hi> or for not produce<g ref="char:EOLhyphen"/>ing ſuch Teſtimonial as in the ſaid Act is required, ſhall from henceforth ceaſ and bee void.</p>
+            <p>And whereas for the better maintenance of preaching Miniſters, ſeveral Augmentations by Authoritie of Parlament have been hereto<g ref="char:EOLhyphen"/>fore granted, Bee it further Ordeined, that all perſon or perſons, who claim or ſhall here<g ref="char:EOLhyphen"/>after claim the benefit of ſuch Augmentation, ſhall before hee or they receiv the ſame, obtain the approbation of the ſaid Commiſſioners or five of them, as a perſon qualified as is before mentioned. And in caſe of approbation, ſuch
+<pb n="136" facs="tcp:169182:5"/> approbation ſhall bee entred by the Regiſter, who under his hand ſhall alſo ſignifie the ſame to ſuch perſon or perſons as are or ſhall bee au<g ref="char:EOLhyphen"/>thorized to pay ſuch Augmentation, who are hereby required and authorized from time to time to pay the perſon or perſons ſo approved, ſuch Augmentation as hath been or ſhall bee granted unto him or the place where hee preach<g ref="char:EOLhyphen"/>eth, taking his or their Acquittances for the ſame. Provided, and it is hereby Declared, that this Ordinance or any thing therein con<g ref="char:EOLhyphen"/>teined, ſhall not bee conſtrued to extend unto, or to revive any dignities, offices or benefits Eccleſiaſtical, ſuppreſſed by Authoritie of Par<g ref="char:EOLhyphen"/>lament. Nor to any benefices Eccleſiaſtical that were not preſentative before the Ordi<g ref="char:EOLhyphen"/>nance for ſuppreſſion of Biſhops: Nor to any Lectures preached or read in any of the Vni<g ref="char:EOLhyphen"/>verſities.</p>
+            <p>And it is hereby laſtly Declared and Or<g ref="char:EOLhyphen"/>dained, That the Approbation or admittance aforeſaid, in ſuch manner as is before preſcri<g ref="char:EOLhyphen"/>bed, is not intended nor ſhall bee conſtrued to bee any Solemn or Sacred ſetting apart of a perſon to any particular office in the Mini<g ref="char:EOLhyphen"/>ſtrie: But onely by ſuch trial and approbati<g ref="char:EOLhyphen"/>on to take care that places deſtitute may bee ſupplied, with able and faithful Preachers throughout this Nation. And that ſuch fit and approved perſons faithfully labouring in the work of the Goſpel, may bee in a capacitie to receiv ſuch publick ſtipend and maintenance, as is or ſhall bee allotted to ſuch places.</p>
+            <closer>
+               <signed>HEN. SCOBEL, Clerk of the Council.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:169182:5"/>
+            <opener>
+               <dateline>
+                  <date>20. March, 1653.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by His Highneſs the Lord PROTECTOR and His Council, That this Ordinance bee forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>HEN. SCOBEL, Clerk of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
